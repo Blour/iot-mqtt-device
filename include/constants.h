@@ -8,3 +8,5 @@
 #define BROKER "192.168.1.65"
 #define REPORT_FREQ 20000
 #define MAX_ALARM_FREQ 5000
+
+#define TRIGMS 10
